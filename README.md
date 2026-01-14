@@ -36,8 +36,8 @@ This project demonstrates how Generative AI can be effectively used by a QA Anal
 
 ###  Project Artifacts
 
-- **Gamma Presentation** – Visual project overview (for recruiters)
-- **PDF Documentation** – Detailed step-by-step execution and proof
+- **Gamma Presentation** – Visual project overview
+- **PDF Documentation** – Detailed step-by-step execution
 - **Demo Videos** – Live prompt execution and outputs
 
 ---
